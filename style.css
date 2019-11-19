@@ -48,7 +48,7 @@ html {
 	font-family: serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
-	color: #666666;
+	color: #366666;
 }
 
 body {
@@ -847,4 +847,8 @@ object {
 
 .gallery-caption {
 	display: block;
+}
+/*=====author styles=====*/
+h1 {
+	font-family: georgia, serif;
 }
